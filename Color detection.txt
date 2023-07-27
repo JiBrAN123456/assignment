@@ -1,0 +1,3 @@
+Color detection
+
+pass And read the images.make two array for the lowst and the highest hsv value of that color.convert that image from bgr to hsv. then apply a mask on the image and pass in the the hsv image and the values from highest to lowest which we want to detect. and show that masked image

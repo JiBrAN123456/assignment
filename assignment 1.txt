@@ -1,0 +1,3 @@
+assignment 1
+
+define a function put two parameters one for img path and other where you wanna save the image.import the image. COnvert it to grey. Add gaussian blur. add the edges and contours the put the input and output image insdie the defined function
